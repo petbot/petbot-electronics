@@ -1,0 +1,67 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=pcb10_smd
+*Date=17:16:00
+*CreatedBy=Fritzing 0.8.7b.01.24.1bf5
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;100μF;100 mil [THT, electrolytic];23.9157;-4.04375;180;Bottom;C1
+2;100nF;0603 [SMD, multilayer];16.7176;-28.2811;-90;Bottom;C3
+3;220µF;0605 [SMD, electrolytic];4.99294;-29.1664;90;Top;C5
+4;;sod-323;31.1377;-26.484;90;Top;U1
+5;;;24.0792;-16.1735;0;Bottom;Via17
+6;15k;0603 [SMD];11.8288;-30.3244;-90;Bottom;R16
+7;10µF;0605 [SMD, electrolytic];23.4466;-39.5212;90;Top;C7
+8;470;0805 [SMD];28.842;-45.9825;90;Bottom;R9
+9;;THT;39.5377;-6.99381;0;Bottom;LM2576-5
+10;;DIP (Dual Inline) [THT];16.9872;-56.5477;-90;Bottom;L293D
+11;;THT;37.8342;-22.264;0;Bottom;LEDSW
+12;;THT;43.5085;-22.1624;180;Bottom;IRSEN
+13;;;51.5936;-44.3491;0;Bottom;Raspberry Pi B rev1
+14;;;38.1;-36.8999;0;Bottom;Via11
+15;;;19.812;-36.8999;0;Bottom;Via5
+16;;;2.97212;-55.7451;-90;Bottom;TXT1
+17;;sru1038;26.7617;-17.9648;180;Top;L5
+18;;;39.9287;-36.8999;0;Bottom;Via12
+19;;diode-1n4001;14.411;-8.2243;90;Bottom;D2
+20;;;6.40079;-63.7224;0;Bottom;Via14
+21;;;10.0584;-28.3655;0;Bottom;Via15
+22;;;21.6408;-38.7287;0;Bottom;Via1
+23;;;38.7095;-49.7016;0;Bottom;Via2
+24;15k;0603 [SMD];33.8051;-40.0481;90;Bottom;R10
+25;;DIP (Dual Inline) [THT];36.8604;-56.5821;-90;Bottom;MCP3002
+26;4.99k;0603 [SMD];38.1659;-41.0923;180;Bottom;R11
+27;;;32.004;-55.7976;0;Bottom;Via9
+28;10nF;0603 [SMD, multilayer];14.891;-48.3942;180;Bottom;C8
+29;;;14.3256;-55.188;0;Bottom;Via7
+30;22k;0603 [SMD];38.0296;-47.1889;-90;Bottom;R8
+31;;THT;8.45013;-19.6111;0;Bottom;AMPOUT
+32;;THT;12.9419;-19.987;0;Bottom;AMPIN
+33;;;34.485;-33.9338;0;Bottom;Hole1
+34;10µF;0605 [SMD, electrolytic];23.9253;-28.7008;90;Top;C4
+35;1mF;200 mil [THT, electrolytic];32.1521;-7.15891;-90;Bottom;C2
+36;6.8;THT;18.9038;-8.6705;-90;Bottom;R12
+37;100k;0603 [SMD];11.7387;-26.2714;-90;Bottom;R13
+38;;;39.9287;-39.3383;0;Bottom;Via8
+39;;THT;3.29949;-19.7991;0;Bottom;MOTOR
+40;;;14.3256;-57.0168;0;Bottom;Via13
+41;;;2.83969;-5.87142;180;Bottom;Power plug1
+42;1k;0603 [SMD];18.1442;-39.2071;0;Bottom;R15
+43;;DIP (Dual Inline) [THT];13.4548;-39.5077;90;Bottom;LM386
+44;;;8.8392;-63.7224;0;Bottom;Via10
+45;;;1.52399;-43.6056;0;Bottom;Via16
+46;;;11.2776;-33.2423;0;Bottom;Via3
+47;470;0805 [SMD];41.3853;-45.5206;90;Bottom;R7
+48;100;0805 [SMD];7.52169;-48.2496;0;Bottom;R14
+49;;;4.27878;-69.2557;0;Bottom;IMG2
+50;;;32.6136;-42.9959;0;Bottom;Via6
+51;;;25.908;-27.1463;0;Bottom;Via4
+52;47nF;0603 [SMD, multilayer];6.47284;-38.7702;90;Bottom;C6
